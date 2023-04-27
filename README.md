@@ -1,1 +1,3 @@
 # Sorting-Algorithm-Visualizer-Using-Python
+
+The Python-based sorting algorithm visualizer is a project that provides a visual representation of various sorting algorithms in action. It allows users to select different algorithms and data sets and watch as the algorithm sorts the data in real-time. The project is designed to help users understand how different sorting algorithms work and how they can be optimized. It is built using Python and popular libraries such as Matplotlib and NumPy, and provides a simple and interactive interface for users to explore different sorting techniques. The project is useful for students and professionals who want to improve their understanding of sorting algorithms and their implementation.
